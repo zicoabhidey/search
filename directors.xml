@@ -1,0 +1,120 @@
+<directors>
+    <director>
+        <name>Clare Weiskopf</name>
+        <nationality>British-Colombian</nationality>
+        <occupation>director,producer,journalist</occupation>
+        <founder>
+            <organization_name>Casatarántula, DOCCO Distribution and Promotion agency</organization_name>
+            <organization_mission>Film production company based in Colombia working on creative documentaries</organization_mission>
+        </founder>
+        <birth>
+            <city>Bogotá</city>
+            <country>Colombia</country>
+            <birthdate>Unkown</birthdate>
+        </birth>
+        <residence>
+            <city type="raised">Bogotá</city>
+            <city type ="migrated">London</city>
+            <city type="current">Santa Marta</city>
+        </residence>
+        <movie>
+            <title>Amazona</title>
+            <released_year>2016</released_year>
+            <produced_by>Casatarántula</produced_by>
+            <based_on>true self story</based_on>
+            <description>Clare Weiskopf travels to the Colombian Amazon jungle to spend time with her mother and reflect on their past and their ideas of motherhood</description>
+            <behind_the_scene>
+            Clare Weiskopf visits her mother, an 80-year old women who lives in the Amazon jungle, and spend times with her reflecting on their past, their memories and their ideas on motherhood
+            <citation href="https://hyp.is/_j3CAMjfEe2hLdsgpGvvGQ/www.hollywoodreporter.com/movies/movie-reviews/amazona-1080678/">Hypothesis Annotation</citation>
+            </behind_the_scene>
+            <awards category="Macondo Awards, 2018,">Best Documentary, Best Editing, Best Music</awards>
+            <awards category="Goya Awards, 2018">Nominated for Best Iberoamerican Film</awards>
+        </movie>
+        <inspirations>
+            <context>Clare Weiskopf is interested in social issues and has worked on diverse themes from Colombia's armed conflict, problematics of sexual violence and even cumbia music</context>
+            <citation href="https://hyp.is/iXWH6sjgEe2qrTfNjhH6Aw/www.casatarantula.co/en/about">Hypothesis Annotation</citation>
+        </inspirations>
+        <family>
+            <description>Clare Weiskopf's film Amazona portrays her mother, Valeria Meikle, who left Englad at age 23 to live in Colombia. Her sister, Caroline, later dies at the Armero tragedy in 1985</description>
+            <citation href="https://hyp.is/1UK_bMjgEe2heIfMc5NLoA/www.hollywoodreporter.com/movies/movie-reviews/amazona-1080678/">Hypothesis Annotation</citation>
+        </family>
+        <education>
+            <college location="Colombia">Pontificia Universidad Javeriana</college>
+            <description>Clare Weiskopf started her career as a journalist rather than a filmmaker and worked in television productions</description>
+        </education>
+        </director>
+        <director>
+            <name>Rakhshan Banietemad</name>
+            <nationality>Iranian</nationality>
+            <occupation>film director, producer, screenwriter</occupation>
+            <birth>
+            <city>Tehran</city>
+            <country>Iran</country>
+            <birthdate>04/03/1954</birthdate>
+            </birth>
+        <residence>
+            <city type="raised">Tehran</city>
+            <city type="current">Tehran</city>
+        </residence>
+        <movie>
+            <movie_title>Nargess</movie_title>
+            <based_on>love triangle, thievery, city poverty</based_on>
+            <description>The story of a thief that falls in love with a young working-class woman, the characters reflect a nation grappling with social and economic issues</description>
+            <behind_the_scene>
+            <citation href="https://hyp.is/NhgpWNZHEe20gb_B2d9zLQ/harvardfilmarchive.org/calendar/nargess-2010-04">https://hyp.is/NhgpWNZHEe20gb_B2d9zLQ/harvardfilmarchive.org/calendar/nargess-2010-04</citation>
+            </behind_the_scene>
+        </movie>
+</director>
+<director>
+        <name>Rea Tajiri</name>
+        <nationality>Japanese-American</nationality>
+        <occupation>video artist,filmmaker,sceenwriter</occupation>
+        <birth>
+        <city>Chicago</city>
+        <country>United States</country>
+        <birthdate>1958</birthdate>
+    </birth>
+    <residence>
+        <city type="raised">Chicago</city>
+        <city type="migrated">New York</city>
+        <city type="current">Philadelphia</city>
+    </residence>
+    <filmography>
+        <movie>
+            <title>Wisdom Gone Wild</title>
+            <released_year>2022</released_year>
+            <movie_producer>Ghost Pictures Productions</movie_producer>
+            <based_on>true self story</based_on>
+            <description>Rea Tajiri explores with her mother, Rose Tajiri, what it has meant for her to live with dementia</description>
+            <behind_the_scene>
+            <citation href="https://hyp.is/MB3bhNYoEe2QSEcZtwuAyQ/tfma.temple.edu/blog/interview-prof-rea-tajiri-wisdom-gone-wild">Hypothesis Annotation</citation>
+            </behind_the_scene>
+        </movie>
+        <movie>
+            <title>Strawberry Fields</title>
+            <released_year>1997</released_year>
+            <movie_producer>Rea Tajiri, Jason Kliot, Hank Blumenthal</movie_producer>
+            <based_on>historical events</based_on>
+            <description>A Japanese American living in 1970s Chicago revealing a family history on the Japanese American Internment</description>
+            <behind_the_scene>
+            <citation href="https://hyp.is/3HKNftY5Ee2QmA-Pku_dcA/en.wikipedia.org/wiki/Strawberry_Fields_(1997_film)"/>
+            </behind_the_scene>
+            <collaboration>Rea Tajiri created a partnership with author Kerri Sakamoto to write this story</collaboration>
+            <citation href="https://hyp.is/9Rgq2tY7Ee2wCEsX8C9L6g/en.wikipedia.org/wiki/Rea_Tajiri"/>
+        </movie>
+    <affiliation>
+        <affiliation_name>The Kitchen</affiliation_name>
+        <affiliation_desc>non-profit experimental art institution</affiliation_desc>
+    </affiliation>
+    <inspirations>
+        <context>Rea Tajiri's work has been informed and influenced by her family history, context and her father's profession as a photographer</context>
+        <citation href="https://hyp.is/DEvBzNY7Ee20h2ueh7stPQ/www.documentary.org/blog/ida-member-spotlight-rea-tajiri"/>
+    </inspirations>
+    <family>
+        <parents>Vicent Tajiri and Rose Tajiri</parents>
+    </family>
+    <education>
+        <college location="United States">California Institute of the Arts</college>
+    </education>
+    </director>
+</directors>
